@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>赛马娘PENBEAT协会</title>
+  
+  <subtitle>俺の愛馬が！</subtitle>
+  <link href="https://specialweekchan.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://specialweekchan.github.io/"/>
+  <updated>2022-09-14T09:03:46.132Z</updated>
+  <id>https://specialweekchan.github.io/</id>
+  
+  <author>
+    <name>特别周</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>欢迎浏览“赛马娘PENBEAT协会”博客！！！</title>
+    <link href="https://specialweekchan.github.io/posts/ff92a5d9.html"/>
+    <id>https://specialweekchan.github.io/posts/ff92a5d9.html</id>
+    <published>2022-09-13T07:33:10.000Z</published>
+    <updated>2022-09-14T09:03:46.132Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎大家浏览“赛马娘PENBEAT协会”的博客，这里是我们的QQ群：675129254，欢迎大家积极讨论penbeat技术！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;欢迎大家浏览“赛马娘PENBEAT协会”的博客，这里是我们的QQ群：675129254，欢迎大家积极讨论penbeat技术！&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
